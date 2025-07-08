@@ -1,1 +1,22 @@
-Photo & images for the kit
+# Smart Lens and Excimer Laser Education Kit
+
+👁️ Multilingual, SEO-optimized patient education content on smart lens and excimer laser eye surgeries.  
+Available in **English**, **German**, and **Turkish**.
+
+## 📚 Languages
+- 🇬🇧 English (`/content/en`)
+- 🇩🇪 Deutsch (`/content/de`)
+- 🇹🇷 Türkçe (`/content/tr`)
+
+## 📌 Topics
+- Smart Lens Surgery
+- Excimer Laser Techniques (LASIK, PRK, LASEK)
+- Patient FAQs
+- SEO Metadata and Structured Content
+
+## 🤝 Contributions
+We welcome translators, SEO experts, and medical professionals to contribute.  
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for guidelines.
+
+## 📄 License
+This project is licensed under the MIT License.
