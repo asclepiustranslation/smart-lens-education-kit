@@ -23,7 +23,7 @@ Whether you're a **medical student**, **ophthalmology resident**, **healthcare e
 
 - Frequently Asked Questions (**FAQs**)
 - General information about:
-  - **Smart Lens Exchange**
+  - **Smart Lens Exchange surgery types**
   - **Excimer Laser surgery types**
 
 ---
