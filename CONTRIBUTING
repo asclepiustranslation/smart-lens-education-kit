@@ -1,1 +1,49 @@
+# Katkı Rehberi (CONTRIBUTING.md)
+
+Merhaba! 👋  
+Asklepius Translation Services'e ait bu projeye katkıda bulunmak istiyorsanız, aşağıdaki adımları takip ederek süreci kolaylaştırabilirsiniz.
+
+## 🧭 Ön Koşullar
+
+- GitHub hesabınızın olması
+- Markdown ve çeviri süreçlerine temel düzeyde hakimiyet
+- Sağlık terimlerinin hassasiyetini göz önünde bulundurmak
+- CaféTran Espresso veya benzeri CAT araçlarıyla çalışma tecrübesi avantaj sağlar
+
+## 🚀 Katkı Türleri
+
+-Göz içi lens değişim cerrahisi ve/veya refraktif göz tedavisi, excimer lazer göz tedavisi hakkında yenilikler ekleme
+- Mevcut içeriğin dilbilgisi, yazım ya da terimsel düzeltmeleri
+- - SEO uyumlu başlık ve meta açıklama önerileri
+- Dosya formatı (Markdown yapısı, başlık düzeni) optimizasyonu
+
+## 🔧 Nasıl Katkı Sağlanır?
+
+1. Bu repoyu fork'layın  
+2. Yeni bir branch oluşturun (`feature/turkish-fix` gibi)  
+3. Gerekli değişiklikleri yapın  
+4. Açıklayıcı bir commit mesajı girin (`Fix mistranslation in Smart Lens intro`)  
+5. Pull Request (PR) gönderin
+
+## 📋 PR İnceleme Süreci
+
+- Her PR, medikal terminoloji ve kültürel uygunluk açısından değerlendirilecektir  
+- Tüm katkılar açıklayıcı commit ve PR açıklamaları ile yapılmalıdır  
+- Gerekli durumlarda küçük revizyonlar istenebilir
+
+## 🧠 Dil & Terminoloji Kriterleri
+
+- Hastalık adı, cerrahi yöntem ve ilaç isimleri Türkçe-Almanca-İngilizce tutarlılığıyla kontrol edilir  
+- Tüm dil versiyonlarında aynı yapı korunur: başlıklar, paragraflar ve uyarılar  
+- Milli Görüş gibi kültürel ve ideolojik kavramlarda çeviri hassasiyetine dikkat edilir
+
+## 🛡️ Lisans & Haklar
+
+Katkı sunan herkes [LICENSE.md](./LICENSE.md) dosyasındaki şartları kabul etmiş sayılır. Proje açık kaynak olup katkılar telif hakkı devri ile korunmaktadır.
+
+---
+
+Teşekkürler!  
+Projeye katkı sağladığınız için şimdiden minnettarız. Daha fazla bilgi için [GitHub üzerinden bizimle iletişime geçin](https://github.com/asclepiustranslation).
+
 
