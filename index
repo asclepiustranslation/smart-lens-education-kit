@@ -1,1 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  ...
+}
+</script>
+
+## Languages & Content
+
+- 🇬🇧 [English Overview](content/en/overview.md)
+- 🇩🇪 [Deutsch Übersicht](content/de/overview.md)
+- 🇹🇷 [Türkçe Genel Bakış](content/tr/overview.md)
 
