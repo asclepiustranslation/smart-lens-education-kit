@@ -1,0 +1,46 @@
+Hallo! 👋
+Wenn Sie zu diesem Projekt von Asklepius Translation Services beitragen möchten, können Sie den Vorgang mit den folgenden Schritten vereinfachen.
+
+## 🧭 Voraussetzungen
+
+- GitHub-Konto
+- Grundkenntnisse in Markdown und Übersetzungsprozessen
+- Berücksichtigung der Sensibilität von Gesundheitsbegriffen
+- Erfahrung mit CaféTran Espresso oder ähnlichen CAT-Tools von Vorteil
+
+## 🚀 Beitragsarten
+
+- Hinzufügen neuer Informationen zu intraokularen Linsenersatzoperationen und/oder refraktiven Augenbehandlungen, Excimer-Laser-Augenbehandlungen
+- Korrekturen von Grammatik, Rechtschreibung oder Terminologie an bestehenden Inhalten
+- Vorschläge für SEO-freundliche Titel und Metabeschreibungen
+- Optimierung des Dateiformats (Markdown-Struktur, Titellayout)
+
+## 🔧 So tragen Sie bei
+
+1. Forken Sie dieses Repo
+
+2. Erstellen Sie einen neuen Branch (z. B. „feature/turkish-fix“)
+3. Nehmen Sie die erforderlichen Änderungen vor.
+4. Geben Sie eine beschreibende Commit-Nachricht ein („Übersetzungsfehler in der Smart Lens-Einleitung beheben“)
+5. Senden Sie einen Pull Request (PR)
+
+## 📋 PR-Überprüfungsprozess
+
+- Jeder PR wird auf medizinische Terminologie und kulturelle Angemessenheit
+– Alle Beiträge müssen mit aussagekräftigen Commits und PR-Beschreibungen eingereicht werden.
+– Geringfügige Überarbeitungen können bei Bedarf angefordert werden.
+
+## 🧠 Sprach- und Terminologiekriterien
+
+– Krankheitsbezeichnungen, chirurgische Eingriffe und Medikamentennamen werden auf Türkisch, Deutsch und Englisch auf Konsistenz geprüft.
+– Die Struktur wird in allen Sprachversionen beibehalten: Überschriften, Absätze und Warnhinweise.
+– Die Übersetzungssensibilität kultureller und ideologischer Konzepte wie Milli Görüş (Nationale Vision) wird berücksichtigt.
+
+## 🛡️ Lizenz & Rechte
+
+Alle Mitwirkenden [LICENSE.md](./LICENSE.md) Sie akzeptieren die Bedingungen in der Datei. Das Projekt ist Open Source, und Ihre Beiträge sind urheberrechtlich geschützt.
+
+---
+
+Vielen Dank!
+Wir freuen uns über Ihren Beitrag zum Projekt. Für weitere Informationen kontaktieren Sie uns bitte über GitHub.
