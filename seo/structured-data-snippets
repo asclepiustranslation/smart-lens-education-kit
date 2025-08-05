@@ -1,1 +1,36 @@
+## FAQ Schema (English)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who is a candidate for smart lens surgery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Smart lens surgery is suitable for individuals with presbyopia or cataracts seeking long-term vision correction."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is excimer laser surgery painful?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Excimer laser procedures like LASIK are generally painless and performed under local anesthesia."
+      }
+    }
+  ]
+}
+
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalProcedure",
+  "name": "Smart Lens Implantation",
+  "description": "A refractive surgery procedure involving the implantation of multifocal intraocular lenses.",
+  "howPerformed": "Performed under local anesthesia, the natural lens is replaced with a smart lens to correct vision.",
+  "procedureType": "Surgical",
+  "medicalSpecialty": "Ophthalmology"
+}
 
