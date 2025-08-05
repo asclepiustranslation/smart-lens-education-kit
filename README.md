@@ -4,4 +4,4 @@ Multilingual SEO-optimized patient education content on smart lens and excimer l
 
 - 🇬🇧 [English Overview](content/en/overview.md)
 - 🇩🇪 [Deutsch Übersicht](content/de/overview)
-- 🇹🇷 [Türkçe Genel Bakış](content/tr/overview.md)
+- 🇹🇷 [Türkçe Genel Bakış](content/tr/overview)
