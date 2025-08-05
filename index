@@ -1,14 +1,28 @@
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  ...
-}
-</script>
+👁 Smart Lens & Excimer Laser Kit
+Multilingual educational resource for patients and caregivers — powered by Asklepius Tercüme
 
-## Languages & Content
+📌 Overview
+Bu eğitim paketi, Smart Lens ve Excimer Laser tedavilerine dair temel bilgileri farklı dillerde sunar. Amaç, hastaların karar süreçlerini kolaylaştırmak ve sağlık turizminde şeffaflığı artırmaktır.
 
-- 🇬🇧 [English Overview](content/en/overview.md)
-- 🇩🇪 [Deutsch Übersicht](content/de/overview.md)
-- 🇹🇷 [Türkçe Genel Bakış](content/tr/overview.md)
+🗂 Languages
+🇬🇧 English Overview
+
+🇩🇪 Deutsch Übersicht
+
+🇹🇷 Türkçe Genel Bakış
+
+🧠 Topics Covered
+Göz içi lens türleri ve özellikleri
+
+Excimer lazer öncesi/sonrası bilgilendirme
+
+Riskler, alternatifler ve iyileşme süreci
+
+Sık sorulan sorular (FAQ)
+
+🔍 Structured SEO Data
+Bu sayfada JSON-LD SEO etiketleri ile zenginleştirilmiş içerik bulunmaktadır. Google gibi arama motorları için daha anlaşılır hâle getirilmiştir.
+
+💼 Powered by Asklepius
+Uzman tıbbi tercüme ve çok dilli sağlık içeriğiyle karar destek sisteminizi güçlendirin.
 
