@@ -1,0 +1,46 @@
+Hello! 👋
+If you would like to contribute to this project by Asklepius Translation Services, you can simplify the process by following the steps below.
+
+## 🧭 Prerequisites
+
+- Having a GitHub account
+- Basic knowledge of Markdown and translation processes
+- Considering the sensitivity of health terms
+- Experience working with CaféTran Espresso or similar CAT tools is an advantage
+
+## 🚀 Contribution Types
+
+- Adding new information about intraocular lens replacement surgery and/or refractive eye treatment, excimer laser eye treatment
+- Grammar, spelling, or terminology corrections to existing content
+- SEO-friendly title and meta description suggestions
+- Optimizing file format (Markdown structure, title layout)
+
+## 🔧 How to Contribute
+
+1. Fork this repo
+
+2. Create a new branch (such as `feature/turkish-fix`)
+3. Make the necessary changes
+4. Enter a descriptive commit message (`Fix mistranslation in Smart Lens intro`)
+5. Submit a Pull Request (PR)
+
+## 📋 PR Review Process
+
+- Each PR will be reviewed for medical terminology and cultural appropriateness
+- All contributions must be submitted with descriptive commits and PR descriptions
+- Minor revisions may be requested if necessary
+
+## 🧠 Language & Terminology Criteria
+
+- Disease names, surgical procedures, and drug names are checked for consistency in Turkish, German, and English
+- The same structure is maintained across all language versions: headings, paragraphs, and warnings
+- Translation sensitivity is taken into account for cultural and ideological concepts such as Milli Görüş (National Vision)
+
+## 🛡️ License & Rights
+
+All contributors [LICENSE.md](./LICENSE.md) You are deemed to have accepted the terms in the file. The project is open source, and contributions are protected by copyright.
+
+---
+
+Thank you!
+We appreciate your contribution to the project. For more information, [contact us on GitHub](https://github.com/asclepiustranslation).
